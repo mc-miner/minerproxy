@@ -1,7 +1,7 @@
 #!/bin/bash
 
 VERSION="3.9.94"
-DOWNLOAD_HOST="https://github.com/mc-miner/MCMiner//raw/main/linux"
+DOWNLOAD_HOST="https://github.com/mc-miner/minerproxy//raw/main/linux"
 ORIGIN_EXEC="minerproxy-${VERSION}"
 
 SERVICE_NAME="minerproxyservice"
